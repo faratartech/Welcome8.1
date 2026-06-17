@@ -1,12 +1,4 @@
-
------------------------------------------
-#简介
-> Windows8.1 安装完成第一次进入系统时的欢迎界面，纯手工打造，欢迎吐槽:smiley:
-
-#预览地址
-> https://xcss.github.io/Welcome8.1  
-
-
-#小提示
-> 听说 下雨天 `F11` 和电脑更配噢 ︿(￣︶￣)︿ 
-
+# Windows8.1 Welcome page(oobe\firstloginanim.html)
+This file is very similar to 8.1 welcome, so i guess it was fished from oobe\firstloginanim and edited to work correctly.
+Press `F11` to get Fullscreen.
+Enjoy!
