@@ -1,9 +1,9 @@
-var TIPS = ['你好', '我们正在为你进行相关设置', ['正在获取关键更新', '请不要关闭电脑'],
-        ['这可能需要一点时间', '请不要关闭电脑'], '马上回来', '更新完成', '现在，我们将设置你的应用', ['你可以从应用商店获取应用', '正在安装应用'],
-        ['正在处理一些事情', '正在安装应用'],
-        ['正在准备你的应用', '请不要关闭电脑'],
-        ['准备工作马上就绪', '请不要关闭电脑'],
-        ['尽情使用吧', '@xCss<br/>项目地址:https://github.com/xCss/Welcome8.1']
+var TIPS = ['Hello', 'We\'re setting things up for you', ['Getting important updates', 'Please don\'t turn off your PC'],
+        ['This may take a few minutes', 'Please don\'t turn off your PC'], 'Please Wait', 'Installing Apps', ['You can get new apps from the Store', 'Installing App 1 of 4'],
+        ['Doing Something', 'Installing App 2 of 4'],
+        ['Preparing your new Apps', 'Please don\'t turn off your PC'],
+        ['Almost There', ''],
+        ['尽情使用吧', '@xCss(translation, correction and font by @faratartech)<br/>address: xCss/Welcome8.1 and faratartech/Welcome8.1']
     ],
     isTrue = true,
     i = 0,
